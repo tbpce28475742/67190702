@@ -1,2 +1,3 @@
+test.fetch();
 while (rs.next())
 hello world
