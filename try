@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 // do the thing you do
 test.fetch();
 while (rs.next())
