@@ -1,4 +1,5 @@
 rs.close();
+rs.close();
 // do the thing you do
 String userName = props.getProperty("db.user");
 public class OracleJdbcTest
