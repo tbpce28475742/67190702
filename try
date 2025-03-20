@@ -1,3 +1,4 @@
+} catch (IOException e) {
 con=DriverManager.getConnection(url, userName, password);
 rs.close();
 rs.close();
