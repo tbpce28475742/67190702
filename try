@@ -1,3 +1,4 @@
+ps.close();
 public void fetch() throws SQLException, IOException
 if (out != null) {
 
